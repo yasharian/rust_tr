@@ -1,6 +1,7 @@
 use std::io ; 
 
 fn main() {
+    println!("my name is yashar");
     println!("Hello, world!");
     println!("guess the number!");
     println!("pleas input your guess.");
